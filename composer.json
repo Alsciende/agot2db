@@ -24,7 +24,7 @@
     "guzzlehttp/guzzle": "^7.0",
     "incenteev/composer-parameter-handler": "^2.0",
     "jms/i18n-routing-bundle": "@stable",
-    "nelmio/api-doc-bundle": "^3.6",
+    "nelmio/api-doc-bundle": "^4.11",
     "nelmio/cors-bundle": "^2.1",
     "phpdocumentor/reflection-docblock": "^5.2",
     "ramsey/uuid-doctrine": "^1.5",
