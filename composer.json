@@ -57,7 +57,7 @@
     "phpstan/phpstan-symfony": "^0.12.7",
     "squizlabs/php_codesniffer": "@stable",
     "symfony/browser-kit": "4.4.*",
-    "symfony/phpunit-bridge": "4.4.*"
+    "symfony/phpunit-bridge": "6.3.*"
   },
   "config": {
     "preferred-install": {
