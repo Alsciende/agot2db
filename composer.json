@@ -44,7 +44,7 @@
     "symfony/serializer": "4.4.*",
     "symfony/swiftmailer-bundle": "^3.3.1",
     "symfony/templating": "4.4.*",
-    "symfony/yaml": "4.4.*",
+    "symfony/yaml": "5.3.*",
     "twig/twig": "^3.4.3",
     "willdurand/js-translation-bundle": "^4.0.2"
   },
